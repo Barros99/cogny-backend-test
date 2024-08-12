@@ -4,12 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Fernando Grassi Chaves",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.27.2",
+    "axios": "^1.7.3",
     "dotenv": "^16.0.2",
     "dotenv-safe": "^8.2.0",
     "massive": "^6.10.2",
